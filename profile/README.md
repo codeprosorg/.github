@@ -1,6 +1,6 @@
 ## Welcome to CodePros! 👋
 
-[CodePros](https://codepros.org), a division of the [Developer Network](https://devnw.com), is an expert cybersecurity and software consultancy firm with extensive experience in various domains of information security, artificial intelligence, machine learning and software engineering.
+Expert Cybersecurity and Software consultancy firm!
 
 🔐 **About CodePros**
 
